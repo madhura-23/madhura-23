@@ -19,7 +19,7 @@ AI Enthusiast | Full-stack Explorer | Building solutions that matter 💡
 - 🎓 BTech in **Artificial Intelligence**
 - 💻 Currently learning **JavaScript, DSA & Cloud**
 - 🌱 Exploring **AI x Web** projects
-- 🎯 Goal: To work at **Google** and create global impact
+- 🎯 Goal: To keep learning every day and build projects that challenge me.”
 - 🌸 I love designing clean UIs, solving problems, and helping others learn tech
 
 ---
