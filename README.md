@@ -2,9 +2,6 @@
 | -------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Profile View Counter | `![Profile views](https://komarev.com/ghpvc/?username=madhura-23&color=ff69b4)`                       | ![views](https://komarev.com/ghpvc/?username=madhura-23\&color=ff69b4)                               |
 | Learning             | `![Learning JavaScript](https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge)` | ![Learning JS](https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge)          |
-| Goal                 | To keep learning every day and build projects that challenge me.”
-“Mission: To explore, break, and rebuild until I master every concept.”
-“Dream: To transform curiosity into creation — one project at a time.”(https://img.shields.io/badge/Goal-Google-red?style=for-the-badge\&logo=google)        |
 | AI Enthusiast        | `![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge&logo=openai)`            | ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge\&logo=openai) |
 
 ## Hi there 👋
