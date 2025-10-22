@@ -73,6 +73,10 @@ AI Enthusiast | Full-stack Explorer | Building solutions that matter 💡
 
 ### ✨ Fun Fact
 > I believe every line of code can bring us closer to something magical 💫
+>
+> ![GitHub stars](https://img.shields.io/github/stars/madhura-23?style=social)
+![GitHub followers](https://img.shields.io/github/followers/madhura-23?style=social)
+
 
 <!--
 **madhura-23/madhura-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
