@@ -77,8 +77,7 @@ AI Enthusiast | Full-stack Explorer | Building solutions that matter 💡
 >
 > ![GitHub stars](https://img.shields.io/github/stars/madhura-23?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/madhura-23?style=social)
-> 🌐 **Let’s Connect:**  
-[LinkedIn](https://linkedin.com/in/madhura-bhat-bab52b292)
+
 
 
 <!--
