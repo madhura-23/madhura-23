@@ -29,8 +29,6 @@ AI-driven applications, backend APIs using FastAPI, and end-to-end projects focu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhura-23&show_icons=true)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=madhura-23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
