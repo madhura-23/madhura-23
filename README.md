@@ -5,7 +5,7 @@
 | AI Enthusiast        | `![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge&logo=openai)`            | ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge\&logo=openai) |
 
 
-<h1 align="center">✨ Hey there, I'm Madhura Bhat! ✨</h1>
+<h1 align="center">✨ Hey there, I'm Madhura Bhatt! ✨</h1>
 
 <p align="center">
 AI Enthusiast | Full-stack Explorer | Building solutions that matter 💡
