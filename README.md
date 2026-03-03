@@ -65,7 +65,7 @@ status: "somewhere between 'it's not working' and 'wait it worked' 🌌"
 
 <div align="center">
 
-[![Madhura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&theme=high-contrast&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Madhura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&theme=merko&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
