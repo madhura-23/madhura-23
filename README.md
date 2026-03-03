@@ -75,6 +75,7 @@ status: "somewhere between 'it's not working' and 'wait it worked' 🌌"
 
 ### ✨ Fun Fact
 > I believe every line of code can bring us closer to something magical 💫
+> I have a cat named moggu.
 >
 > ![GitHub stars](https://img.shields.io/github/stars/madhura-23?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/madhura-23?style=social)
