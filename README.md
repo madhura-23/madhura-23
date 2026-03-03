@@ -37,12 +37,37 @@ AI-driven applications, backend APIs using FastAPI, and end-to-end projects focu
 
 ---
 
-### 🧠 Current Learning Journey
+### `> cat currently_in_orbit.log`
 
-- 📘 **JavaScript Mastery**
-- ⚙️ **AWS Cloud Labs**
-- 💬 **Public Speaking & Confidence Building**
-- 🚀 **Building my own AI Chatbot & Prompt Generator**
+```yaml
+# what's keeping me busy right now
+
+learning:
+  - LLMs and prompt engineering
+  - RAG pipelines and vector databases
+  - System design for scalable ML services
+
+practicing:
+  - DSA — one problem at a time
+  - Building small, useful things to sharpen my skills
+
+exploring:
+  - Open source AI projects
+  - Backend architecture patterns
+  - The vast, beautiful chaos of the ML research world
+
+status: "somewhere between 'it's not working' and 'wait it worked' 🌌"
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Madhura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
