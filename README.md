@@ -13,7 +13,7 @@ AI Enthusiast | Full-stack Explorer | Building solutions that matter 💡
 
 ---
 # 💫 About Me:
-AI-driven applications, backend APIs using FastAPI, and end-to-end projects focused on scalability and performance.<br>High-impact AI/ML projects, open-source contributions, and problem-solving focused engineering teams.<br>Making my projects cleaner, smarter, and more real-world ready (and learning from people who’ve been there 💭)<br>Data Structures & Algorithms, Machine Learning, Deep Learning, backend architecture, and scalable system design.<br>Python, FastAPI, AI/ML fundamentals, DSA preparation, and building strong technical portfolios.<br>I enjoy breaking down complex problems into efficient, maintainable solutions and continuously leveling up as an engineer.<br>
+AI-driven applications, backend APIs using FastAPI, and end-to-end projects focused on scalability and performance.<br>High-impact AI/ML projects, open-source contributions, and problem-solving focused engineering teams.<br>Making my projects cleaner, smarter, and more real-world ready (and learning from people who’ve been there )<br>Data Structures & Algorithms, Machine Learning, Deep Learning, backend architecture, and scalable system design.<br>Python, FastAPI, AI/ML fundamentals, DSA preparation, and building strong technical portfolios.<br>I enjoy breaking down complex problems into efficient, maintainable solutions and continuously leveling up as an engineer.<br>
 
 
 ## 🌐 Socials:
