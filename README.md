@@ -1,98 +1,204 @@
-| Purpose              | Markdown Code                                                                                         | Preview                                                                                              |
-| -------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Profile View Counter | `![Profile views](https://komarev.com/ghpvc/?username=madhura-23&color=ff69b4)`                       | ![views](https://komarev.com/ghpvc/?username=madhura-23\&color=ff69b4)                               |
-| Learning             | `![Learning JavaScript](https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge)` | ![Learning JS](https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge)          |
-| AI Enthusiast        | `![AI](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge&logo=openai)`            | ![AI Enthusiast](https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge\&logo=openai) |
+<div align="center">
 
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=MADHURA%20BHATT&fontSize=60&fontColor=ff2222&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Builder&descAlignY=62&descColor=ffffff" width="100%"/>
 
-<h1 align="center">✨ Hey there, I'm Madhura Bhatt! ✨</h1>
+</div>
 
-<p align="center">
-AI Enthusiast | Full-stack Explorer | Building solutions that matter 💡
-</p>
+<div align="center">
 
----
-# 💫 About Me:
-AI-driven applications, backend APIs using FastAPI, and end-to-end projects focused on scalability and performance.<br>High-impact AI/ML projects, open-source contributions, and problem-solving focused engineering teams.<br>Making my projects cleaner, smarter, and more real-world ready (and learning from people who’ve been there )<br>Data Structures & Algorithms, Machine Learning, Deep Learning, backend architecture, and scalable system design.<br>Python, FastAPI, AI/ML fundamentals, DSA preparation, and building strong technical portfolios.<br>I enjoy breaking down complex problems into efficient, maintainable solutions and continuously leveling up as an engineer.<br>
+```
+██████████████████████████████████████████████████████████
+█                                                        █
+█   [ madhura-23 ]  :::  AI & Backend Developer         █
+█   [ STATUS   ]  :::  building things at 2am           █
+█   [ LOCATION ]  :::  India  /  UTC +05:30             █
+█   [ VIBE     ]  :::  💀  somewhere between chaos &    █
+█                        clean architecture             █
+█                                                        █
+██████████████████████████████████████████████████████████
+```
 
+![Profile views](https://komarev.com/ghpvc/?username=madhura-23&color=ff0000&style=flat-square&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/madhura-23?color=ff0000&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/madhura-23)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/madhurabhat.23) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madhurabhatt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhura-bhat-bab52b292) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/madhurabhat2310) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@madhura-23) ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhurabhat2310@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madhura-23&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhura-23&theme=radical" />
-</p>
+</div>
 
 ---
 
-### `> cat currently_in_orbit.log`
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=madhura-23&show_icons=true&theme=dark&title_color=ff2222&icon_color=ff2222&text_color=ffffff&bg_color=0d0d0d&border_color=ff2222&hide_border=false" />
 
-```yaml
+## `> whoami`
+
+```python
+class Madhura:
+    name       = "Madhura Bhatt"
+    role       = "AI & Backend Developer"
+    location   = "India 🇮🇳"
+    
+    focus = [
+        "FastAPI  •  ML  •  DSA",
+        "Scalable Systems",
+        "LLMs & RAG Pipelines",
+    ]
+    
+    currently  = "Breaking things so I can build them better"
+    cat        = "moggu 🐾"
+    
+    fun_fact   = "Every commit is an apology to future me."
+```
+
+<br clear="right"/>
+
+---
+
+## `> cat about.log`
+
+```
+I build AI-driven applications and backend APIs focused on
+scalability and performance. My professional journey is
+driven by continuous learning, practical experiments, and
+a relentless commitment to shipping real-world solutions.
+
+At the moment: FastAPI backends, ML pipelines, DSA grind,
+and exploring the beautiful chaos of the AI research world.
+
+Code is never finished. It only gets less terrible over time.
+```
+
+---
+
+## `> ls ./connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff2222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhura-bhat-bab52b292)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-ff2222?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Madhurabhat/)
+[![CodePen](https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=ff2222&labelColor=111111)](https://codepen.io/madhura-23)
+[![Discord](https://img.shields.io/badge/DISCORD-0d0d0d?style=for-the-badge&logo=discord&logoColor=ff2222)](https://discord.com/channels/@me)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff2222)](https://instagram.com/madhurabhatt_)
+[![Gmail](https://img.shields.io/badge/EMAIL-ff2222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurabhat2310@gmail.com)
+
+</div>
+
+---
+
+## `> cat tech_stack.json`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=ff2222)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=ff2222)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=ff2222)
+![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=ff2222)
+![R](https://img.shields.io/badge/R-0d0d0d?style=flat-square&logo=r&logoColor=ff2222)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=ff2222)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=ff2222)
+
+**Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logo=fastapi&logoColor=ff2222)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=ff2222)
+![Express.js](https://img.shields.io/badge/Express.js-0d0d0d?style=flat-square&logo=express&logoColor=ff2222)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=ff2222)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=ff2222)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=ff2222)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwind-css&logoColor=ff2222)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=ff2222)
+![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=ff2222)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=ff2222)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=ff2222)
+![scikit-learn](https://img.shields.io/badge/sklearn-0d0d0d?style=flat-square&logo=scikit-learn&logoColor=ff2222)
+![Keras](https://img.shields.io/badge/Keras-0d0d0d?style=flat-square&logo=keras&logoColor=ff2222)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=ff2222)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=ff2222)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=flat-square&logo=matplotlib&logoColor=ff2222)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d0d0d?style=flat-square&logo=anaconda&logoColor=ff2222)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=ff2222)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=ff2222)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=ff2222)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=flat-square&logo=sqlite&logoColor=ff2222)
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazon-aws&logoColor=ff2222)
+![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=flat-square&logo=microsoftazure&logoColor=ff2222)
+![Google Cloud](https://img.shields.io/badge/GCP-0d0d0d?style=flat-square&logo=google-cloud&logoColor=ff2222)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=ff2222)
+
+**Other**
+
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=ff2222)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=ff2222)
+![Arduino](https://img.shields.io/badge/Arduino-0d0d0d?style=flat-square&logo=arduino&logoColor=ff2222)
+![Power BI](https://img.shields.io/badge/PowerBI-0d0d0d?style=flat-square&logo=powerbi&logoColor=ff2222)
+![Notion](https://img.shields.io/badge/Notion-0d0d0d?style=flat-square&logo=notion&logoColor=ff2222)
+![Canva](https://img.shields.io/badge/Canva-0d0d0d?style=flat-square&logo=canva&logoColor=ff2222)
+
+---
+
+## `> cat currently_in_orbit.log`
+
+```
 # what's keeping me busy right now
 
 learning:
-  - LLMs and prompt engineering
-  - RAG pipelines and vector databases
-  - System design for scalable ML services
+  ├── LLMs and prompt engineering
+  ├── RAG pipelines + vector databases
+  └── System design for scalable ML services
 
 practicing:
-  - DSA — one problem at a time
-  - Building small, useful things to sharpen my skills
+  ├── DSA — one problem at a time
+  └── Building small, useful things to sharpen my edge
 
 exploring:
-  - Open source AI projects
-  - Backend architecture patterns
-  - The vast, beautiful chaos of the ML research world
+  ├── Open source AI projects
+  ├── Backend architecture patterns
+  └── The vast, beautiful chaos of the ML research world
 
 status: "somewhere between 'it's not working' and 'wait it worked' 🌌"
 ```
 
 ---
 
-## 📈 Contribution Graph
+## `> github --stats`
 
 <div align="center">
 
-[![Madhura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&theme=merko&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhura-23&layout=compact&theme=dark&title_color=ff2222&text_color=ffffff&bg_color=0d0d0d&border_color=ff2222&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhura-23&theme=dark&background=0d0d0d&ring=ff2222&fire=ff2222&currStreakLabel=ff2222&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ff2222" />
 
 </div>
 
 ---
 
+## `> git log --graph --contributions`
 
+<div align="center">
 
-### ✨ Fun Fact
-> I believe every line of code can bring us closer to something magical 💫
-> I have a cat named moggu.
->
-> ![GitHub stars](https://img.shields.io/github/stars/madhura-23?style=social)
-![GitHub followers](https://img.shields.io/github/followers/madhura-23?style=social)
+[![Madhura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&theme=github-compact&bg_color=0d0d0d&color=ff2222&line=ff2222&point=ffffff&area=true&hide_border=false&border_color=ff2222)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 
+---
 
-<!--
-**madhura-23/madhura-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║   "I believe every line of code can bring us closer   ║
+║    to something magical."                              ║
+║                                                        ║
+║   Also — I have a cat named moggu. 🐾                  ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&reversal=false" width="100%"/>
+
+</div>
