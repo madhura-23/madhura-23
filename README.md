@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0b0a,40:1c1710,100:0d0b0a&height=260&text=Madhura%20Bhatt&fontSize=80&fontColor=f0e6d3&animation=fadeIn&fontAlignY=50&desc=AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Builder%20of%20Quiet%20Things&descSize=18&descAlignY=72&descColor=b8966a" width="100%"/>
+<img src="Git.jpeg" width="100%"  height="300px" style="object-fit:cover; object-position:center top;"/>
+</div>
 
 <br/>
 
