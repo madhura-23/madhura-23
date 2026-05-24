@@ -1,5 +1,5 @@
 <div align="center">
-<img src="github profile .jpeg" width="100%"/>
+<img src="github_profile_.jpeg" width="100%" height="320px" style="object-fit:cover; object-position:center 20%;"/>
 </div>
 
 <br/>
