@@ -27,7 +27,7 @@ I'm an AI & Backend developer with a slightly unhealthy obsession with building 
 
 I'm driven by continuous learning, real-world problem-solving, and a genuine belief that clean code is a form of respect — for yourself, for the people who read it, and for the system that has to run it.
 
-Right now I'm deep in LLMs, RAG pipelines, and DSA. My cat moggu watches me code. She is unimpressed.
+Right now I'm deep in LLMs, RAG pipelines, and DSA. My cat moggu watches me code. He is unimpressed.
 
 > *code is never finished. it only becomes slightly less terrible over time.*
 
@@ -154,7 +154,7 @@ A personal JavaScript playground — fundamentals, logic building, and clean cod
 
 *I believe every line of code can bring us closer to something magical.*
 <br/>
-*Also — moggu sends her regards. 🐾*
+*Also — moggu sends his regards. 🐾*
 
 <br/>
 
