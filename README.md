@@ -152,7 +152,7 @@ A personal JavaScript playground — fundamentals, logic building, and clean cod
 
 <br/>
 
-*I believe every line of code can bring us closer to something magical.*
+*There is little madness in everything i do and i enjoy it!*
 <br/>
 *Also — moggu sends his regards. 🐾*
 
