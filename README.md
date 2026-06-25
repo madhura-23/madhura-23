@@ -67,7 +67,7 @@ A personal JavaScript playground — fundamentals, logic building, and clean cod
 
 ---
 
-> *every commit I make is essentially a small, desperate apology to my future self.*
+
 > *someday I will return to this codebase and wonder who let me anywhere near a keyboard.*
 
 ---
