@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=MADMESS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=MADMESS" alt="Typing SVG" />
 
 <br/>
 
@@ -14,9 +14,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Remote%20%7C%20Relocation%20%7C%20International-4FC3F7?style=flat-square&labelColor=0A192F"/>
-<img src="https://img.shields.io/badge/IMMEDIATE%20JOINER-4FC3F7?style=flat-square&labelColor=0A192F"/>
-<img src="https://komarev.com/ghpvc/?username=madhura-23&style=flat-square&color=4FC3F7&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Remote%20%7C%20Relocation%20%7C%20International-A78BFA?style=flat-square&labelColor=0D0B14"/>
+<img src="https://img.shields.io/badge/IMMEDIATE%20JOINER-A78BFA?style=flat-square&labelColor=0D0B14"/>
+<img src="https://komarev.com/ghpvc/?username=madhura-23&style=flat-square&color=A78BFA&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -64,7 +64,16 @@ currently: sharpening DSA + shipping one more GenAI project
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,langchain,streamlit,huggingface,nextjs,ts,react,postgres,prisma,docker,aws,git,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,react,postgres,prisma,docker,aws,git,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PyTorch-A78BFA?style=for-the-badge&logo=pytorch&logoColor=0D0B14"/>
+<img src="https://img.shields.io/badge/LangChain-A78BFA?style=for-the-badge&logo=langchain&logoColor=0D0B14"/>
+<img src="https://img.shields.io/badge/HuggingFace-A78BFA?style=for-the-badge&logo=huggingface&logoColor=0D0B14"/>
+<img src="https://img.shields.io/badge/Streamlit-A78BFA?style=for-the-badge&logo=streamlit&logoColor=0D0B14"/>
+<img src="https://img.shields.io/badge/FAISS-A78BFA?style=for-the-badge&logo=meta&logoColor=0D0B14"/>
+<img src="https://img.shields.io/badge/Groq-A78BFA?style=for-the-badge&logoColor=0D0B14"/>
 
 </div>
 
@@ -122,14 +131,14 @@ A Variational Autoencoder built in PyTorch to actually understand the math behin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhura-23&show_icons=true&hide_border=true&hide_title=true&bg_color=0A192F&title_color=4FC3F7&icon_color=4FC3F7&text_color=EAEAEA&ring_color=4FC3F7" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhura-23&hide_border=true&background=0A192F&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=EAEAEA&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=888888" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=madhura-23&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0B14&title_color=A78BFA&icon_color=A78BFA&text_color=EAEAEA&ring_color=A78BFA" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhura-23&hide_border=true&background=0D0B14&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=EAEAEA&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=888888" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhura-23&layout=compact&hide_border=true&bg_color=0A192F&title_color=4FC3F7&text_color=EAEAEA&langs_count=6" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhura-23&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=EAEAEA&langs_count=6" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&bg_color=0A192F&color=4FC3F7&line=4FC3F7&point=EAEAEA&area=true&hide_border=true&title_color=4FC3F7" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&bg_color=0D0B14&color=A78BFA&line=A78BFA&point=EAEAEA&area=true&hide_border=true&title_color=A78BFA" width="90%"/>
 
 </div>
 
@@ -150,10 +159,10 @@ Currently learning Spanish, badly. Danced long before I coded. Somewhere between
 **Hiring, or just want to talk shop about RAG pipelines and retrieval hacks?**
 
 <a href="https://linkedin.com/in/madhura-bhatt23">
-  <img src="https://img.shields.io/badge/LINKEDIN-4FC3F7?style=for-the-badge&logoColor=0A192F&labelColor=0A192F"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logoColor=0D0B14&labelColor=0D0B14"/>
 </a>
 <a href="https://github.com/madhura-23">
-  <img src="https://img.shields.io/badge/GITHUB-4FC3F7?style=for-the-badge&logoColor=0A192F&labelColor=0A192F"/>
+  <img src="https://img.shields.io/badge/GITHUB-A78BFA?style=for-the-badge&logoColor=0D0B14&labelColor=0D0B14"/>
 </a>
 
 <br/><br/>
