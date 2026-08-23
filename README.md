@@ -1,163 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0b0a,40:1c1710,100:0d0b0a&height=260&text=Madhura%20Bhatt&fontSize=80&fontColor=f0e6d3&animation=fadeIn&fontAlignY=50&desc=AI%20%E2%80%A2%20Backend%20%E2%80%A2%20Builder%20of%20Quiet%20Things&descSize=18&descAlignY=72&descColor=b8966a" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=MADHURA;AI+%2F+ML+ENGINEER;GENAI+ENGINEER;BUILDS+THINGS+THAT+WORK." alt="Typing SVG" />
+
+<sub>B.Tech, Artificial Intelligence &amp; Data Science — Sharad Institute of Technology · 9.18 GPA</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Mumbai%20·%20Bangalore-E63946?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/IMMEDIATE%20JOINER-E63946?style=flat-square&labelColor=0D0D0D"/>
+<img src="https://komarev.com/ghpvc/?username=madhura-23&style=flat-square&color=e63946&label=PROFILE+VIEWS"/>
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=22&duration=3500&pause=1200&color=C8A96E&center=true&vCenter=true&width=600&lines=AI+%26+Backend+Developer;FastAPI+%C2%B7+ML+%C2%B7+System+Design;Building+clean%2C+scalable+systems;One+problem+at+a+time.)](https://git.io/typing-svg)
+<div align="center"><code>―――――――――――――――――――――――――――――――――――――――――――――</code></div>
 
 <br/>
 
-![visitors](https://komarev.com/ghpvc/?username=madhura-23&color=c8a96e&style=flat-square&label=visitors)
-[![followers](https://img.shields.io/github/followers/madhura-23?color=c8a96e&style=flat-square&logo=github&label=followers&logoColor=f0e6d3)](https://github.com/madhura-23)
+## 01 — ABOUT ME
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I build practical AI systems, not just notebooks — retrieval pipelines that actually retrieve, chatbots that actually help, dashboards people actually open twice. I graduated recently with a 9.18 GPA, spent a term as VP of my college's AI &amp; Data Science Student Association, and interned at HiveTech getting my first real taste of shipping ML that other people depend on.
+
+I'm not here to look busy. Every project below is something I deployed, debugged at 1 AM, or rebuilt because the first version wasn't good enough.
+
+```yaml
+role:      AI/ML Engineer · GenAI Engineer · Python Developer
+based_in:  Mumbai / Bangalore
+status:    open to work, immediate joiner
+currently: sharpening DSA + shipping one more GenAI project
+```
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="./assets/avatar.png" width="220" style="border-radius: 12px;"/>
+
+<sub><i>me, probably mid-debug</i></sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center"><code>―――――――――――――――――――――――――――――――――――――――――――――</code></div>
+
+<br/>
+
+## 02 — TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,langchain,streamlit,huggingface,nextjs,ts,react,postgres,prisma,docker,aws,git,vscode,postman&theme=dark" />
 
 </div>
 
 <br/>
 
----
-
-## Know About Me
-
-<img align="right" width="36%" src="https://github-readme-stats.vercel.app/api?username=madhura-23&show_icons=true&title_color=f0e6d3&icon_color=c8a96e&text_color=c8b89a&bg_color=0d0b0a&border_color=2e2720&hide_border=false&rank_icon=github" />
-
-Hey — I'm **Madhura**.
-
-I'm an AI & Backend developer with a slightly unhealthy obsession with building things that actually work. By day I write FastAPI services and train ML models. By night I debug the same thing I broke in the morning.
-
-I'm driven by continuous learning, real-world problem-solving, and a genuine belief that clean code is a form of respect — for yourself, for the people who read it, and for the system that has to run it.
-
-Right now I'm deep in LLMs, RAG pipelines, and DSA. My cat moggu watches me code. He is unimpressed.
-
-> *code is never finished. it only becomes slightly less terrible over time.*
-
-<br clear="right"/>
-
----
-
-## Things I've Built
-*(to avoid doing things manually)*
-
-**🧠 [MindEase AI Companion](https://github.com/OrbitWork/MindEase-AI-Companion)**
-A calm, privacy-first wellness companion — daily check-ins, empathetic AI chat, curated resources. Built with Express, Firebase & OpenAI.
-
-**🏠 [Smart Home IoT System](https://github.com/madhura-23/Smart-Home-IoT-System)**
-Full-stack IoT platform for managing and monitoring smart home devices in real time. RESTful APIs, responsive dashboard, modular architecture.
-
-**⚡ [100 Days of Code](https://github.com/madhura-23/100-days-code)**
-Daily DSA grind in Python & Java. Algorithms, data structures, and the slow but satisfying process of getting less bad at this.
-
-**🎨 [JS Learning Playground](https://github.com/madhura-23/js-learning)**
-A personal JavaScript playground — fundamentals, logic building, and clean coding practices. Because fundamentals matter.
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0b0a?style=for-the-badge&logo=linkedin&logoColor=f0e6d3&labelColor=0d0b0a)](https://www.linkedin.com/in/madhura-bhat-bab52b292)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d0b0a?style=for-the-badge&logo=leetcode&logoColor=c8a96e&labelColor=0d0b0a)](https://leetcode.com/u/Madhurabhat/)
-[![CodePen](https://img.shields.io/badge/CodePen-0d0b0a?style=for-the-badge&logo=codepen&logoColor=f0e6d3&labelColor=0d0b0a)](https://codepen.io/madhura-23)
-[![Discord](https://img.shields.io/badge/Discord-0d0b0a?style=for-the-badge&logo=discord&logoColor=c8a96e&labelColor=0d0b0a)](https://discord.com/channels/@me)
-[![Instagram](https://img.shields.io/badge/Instagram-0d0b0a?style=for-the-badge&logo=instagram&logoColor=f0e6d3&labelColor=0d0b0a)](https://instagram.com/madhurabhatt_)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0b0a?style=for-the-badge&logo=gmail&logoColor=c8a96e&labelColor=0d0b0a)](mailto:madhurabhat2310@gmail.com)
-
-</div>
-
----
-
-
-> *someday I will return to this codebase and wonder who let me anywhere near a keyboard.*
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-1c1710?style=flat-square&logo=python&logoColor=f0e6d3)
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1710?style=flat-square&logo=javascript&logoColor=c8a96e)
-![Java](https://img.shields.io/badge/Java-1c1710?style=flat-square&logo=openjdk&logoColor=f0e6d3)
-![C](https://img.shields.io/badge/C-1c1710?style=flat-square&logo=c&logoColor=f0e6d3)
-![R](https://img.shields.io/badge/R-1c1710?style=flat-square&logo=r&logoColor=c8a96e)
-![HTML5](https://img.shields.io/badge/HTML5-1c1710?style=flat-square&logo=html5&logoColor=f0e6d3)
-![CSS3](https://img.shields.io/badge/CSS3-1c1710?style=flat-square&logo=css3&logoColor=c8a96e)
-
-**Backend & Frameworks**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-1c1710?style=flat-square&logo=fastapi&logoColor=c8a96e)
-![Flask](https://img.shields.io/badge/Flask-1c1710?style=flat-square&logo=flask&logoColor=f0e6d3)
-![Express.js](https://img.shields.io/badge/Express.js-1c1710?style=flat-square&logo=express&logoColor=f0e6d3)
-![Node.js](https://img.shields.io/badge/Node.js-1c1710?style=flat-square&logo=node.js&logoColor=c8a96e)
-![React](https://img.shields.io/badge/React-1c1710?style=flat-square&logo=react&logoColor=f0e6d3)
-![Next.js](https://img.shields.io/badge/Next.js-1c1710?style=flat-square&logo=next.js&logoColor=f0e6d3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1c1710?style=flat-square&logo=tailwind-css&logoColor=c8a96e)
-![Vite](https://img.shields.io/badge/Vite-1c1710?style=flat-square&logo=vite&logoColor=f0e6d3)
-
-**AI / ML**<br/>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1c1710?style=flat-square&logo=tensorflow&logoColor=c8a96e)
-![PyTorch](https://img.shields.io/badge/PyTorch-1c1710?style=flat-square&logo=pytorch&logoColor=f0e6d3)
-![scikit-learn](https://img.shields.io/badge/sklearn-1c1710?style=flat-square&logo=scikit-learn&logoColor=f0e6d3)
-![Keras](https://img.shields.io/badge/Keras-1c1710?style=flat-square&logo=keras&logoColor=c8a96e)
-![NumPy](https://img.shields.io/badge/NumPy-1c1710?style=flat-square&logo=numpy&logoColor=f0e6d3)
-![Pandas](https://img.shields.io/badge/Pandas-1c1710?style=flat-square&logo=pandas&logoColor=f0e6d3)
-![PyTorch](https://img.shields.io/badge/Matplotlib-1c1710?style=flat-square&logo=matplotlib&logoColor=c8a96e)
-![Anaconda](https://img.shields.io/badge/Anaconda-1c1710?style=flat-square&logo=anaconda&logoColor=f0e6d3)
-
-**Databases & Cloud**<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-1c1710?style=flat-square&logo=mongodb&logoColor=c8a96e)
-![MySQL](https://img.shields.io/badge/MySQL-1c1710?style=flat-square&logo=mysql&logoColor=f0e6d3)
-![Firebase](https://img.shields.io/badge/Firebase-1c1710?style=flat-square&logo=firebase&logoColor=c8a96e)
-![SQLite](https://img.shields.io/badge/SQLite-1c1710?style=flat-square&logo=sqlite&logoColor=f0e6d3)
-![AWS](https://img.shields.io/badge/AWS-1c1710?style=flat-square&logo=amazon-aws&logoColor=c8a96e)
-![Azure](https://img.shields.io/badge/Azure-1c1710?style=flat-square&logo=microsoftazure&logoColor=f0e6d3)
-![GCP](https://img.shields.io/badge/GCP-1c1710?style=flat-square&logo=google-cloud&logoColor=f0e6d3)
-![Docker](https://img.shields.io/badge/Docker-1c1710?style=flat-square&logo=docker&logoColor=c8a96e)
-
-**Tools**<br/>
-![Git](https://img.shields.io/badge/Git-1c1710?style=flat-square&logo=git&logoColor=f0e6d3)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-1c1710?style=flat-square&logo=githubactions&logoColor=c8a96e)
-![Docker](https://img.shields.io/badge/Power_BI-1c1710?style=flat-square&logo=powerbi&logoColor=f0e6d3)
-![Notion](https://img.shields.io/badge/Notion-1c1710?style=flat-square&logo=notion&logoColor=f0e6d3)
-![Canva](https://img.shields.io/badge/Canva-1c1710?style=flat-square&logo=canva&logoColor=c8a96e)
-![Arduino](https://img.shields.io/badge/Arduino-1c1710?style=flat-square&logo=arduino&logoColor=f0e6d3)
-
-</div>
-
----
-
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhura-23&layout=compact&title_color=f0e6d3&text_color=c8b89a&bg_color=0d0b0a&border_color=2e2720&langs_count=8&hide_border=false"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=madhura-23&background=0d0b0a&ring=c8a96e&fire=f0e6d3&currStreakLabel=c8a96e&sideLabels=c8b89a&currStreakNum=f0e6d3&sideNums=c8b89a&dates=6a5d50&border=2e2720"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&bg_color=0d0b0a&color=f0e6d3&line=c8a96e&point=f0e6d3&area=true&area_color=1c1710&hide_border=false&border_color=2e2720&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
+<div align="center"><code>―――――――――――――――――――――――――――――――――――――――――――――</code></div>
 
 <br/>
 
-*There is little madness in everything i do and i enjoy it!*
-<br/>
-*Also — moggu sends his regards. 🐾*
+## 03 — SELECTED WORK
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0b0a,40:1c1710,100:0d0b0a&height=80&section=footer&reversal=false" width="100%"/>
+**→ DocuQuery** — *live RAG pipeline, deployed*
+Ask real questions of real documents. LangChain + FAISS for retrieval, HuggingFace embeddings, Groq's LLaMA3 for generation — running live on Streamlit Cloud after I chased down a broken import path and a deprecated model at midnight. This is the link I lead with in every application.
+`LangChain` `FAISS` `Groq` `Streamlit`
+
+<br/>
+
+**→ ProjectFlow** — *full-stack SaaS*
+A project-management SaaS built end to end: Next.js and TypeScript on the front, Prisma and PostgreSQL underneath, deployed on AWS. Built as a virtual internship submission and treated like production code anyway.
+`Next.js` `TypeScript` `Prisma` `AWS`
+
+<br/>
+
+**→ TalentIQ** — *AI-powered HR platform*
+A recruitment platform concept exploring where GenAI actually saves recruiters time, versus where it just adds noise.
+`Python` `GenAI` `HR-Tech`
+
+<br/>
+
+**→ MindEase** — *NLP wellness chatbot*
+A conversational agent designed around empathy, not just intent-matching — built to hold a supportive conversation, not just answer one.
+`Python` `NLP` `Chatbot`
+
+<br/>
+
+**→ EnterpriseAI Assistant** — *self-hosted LLM assistant*
+DB-GPT running locally in Docker, wired to a SiliconFlow API key — exploring what an enterprise-grade AI assistant looks like outside a vendor's walled garden.
+`Docker` `DB-GPT` `LLMs`
+
+<br/>
+
+**→ VAE Playground** — *generative modeling, from scratch*
+A Variational Autoencoder built in PyTorch to actually understand the math behind generative models instead of just importing one.
+`PyTorch` `Generative AI`
+
+<br/>
+
+<div align="center"><code>―――――――――――――――――――――――――――――――――――――――――――――</code></div>
+
+<br/>
+
+## 04 — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=madhura-23&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&title_color=E63946&icon_color=E63946&text_color=EAEAEA&ring_color=E63946" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhura-23&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=EAEAEA&currStreakNum=EAEAEA&sideNums=EAEAEA&dates=888888" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhura-23&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E63946&text_color=EAEAEA&langs_count=6" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhura-23&bg_color=0D0D0D&color=E63946&line=E63946&point=EAEAEA&area=true&hide_border=true&title_color=E63946" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center"><code>―――――――――――――――――――――――――――――――――――――――――――――</code></div>
+
+<br/>
+
+## 05 — OFF THE CLOCK
+
+Currently learning Spanish, badly. Danced long before I coded. Somewhere between the two I picked up a cat named Moggu, who has strong opinions about my keyboard.
+
+<br/>
+
+<div align="center">
+
+**Hiring, or just want to talk shop about RAG pipelines and retrieval hacks?**
+
+<a href="https://linkedin.com/in/madhura-bhatt23">
+  <img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logoColor=white&labelColor=0D0D0D"/>
+</a>
+<a href="https://github.com/madhura-23">
+  <img src="https://img.shields.io/badge/GITHUB-E63946?style=for-the-badge&logoColor=white&labelColor=0D0D0D"/>
+</a>
+
+<br/><br/>
+<sub>madhura-23 · building in Mumbai / Bangalore</sub>
 
 </div>
