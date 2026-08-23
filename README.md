@@ -164,6 +164,9 @@ Currently learning Spanish, badly. Danced long before I coded. Somewhere between
 <a href="https://github.com/madhura-23">
   <img src="https://img.shields.io/badge/GITHUB-A78BFA?style=for-the-badge&logoColor=0D0B14&labelColor=0D0B14"/>
 </a>
+<a href="https://www.instagram.com/madhurabhatt_/">
+  <img src="https://img.shields.io/badge/INSTA-A78BFA?style=for-the-badge&logoColor=0D0B14&labelColor=0D0B14"/>
+</a>
 
 <br/><br/>
 <sub>madhura-23 · open to remote &amp; international roles</sub>
