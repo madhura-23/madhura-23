@@ -34,7 +34,7 @@
 
 I build practical AI systems, not just notebooks — retrieval pipelines that actually retrieve, chatbots that actually help, dashboards people actually open twice. I spent a term as VP of my college's AI &amp; Data Science Student Association, and interned at HiveTech getting my first real taste of shipping ML that other people depend on.
 
-I'm not here to look busy. Every project below is something I deployed, debugged at 1 AM, or rebuilt because the first version wasn't good enough.
+I'm not here to look busy,but to develop a solution to every problem. Every project below is something I deployed, debugged at 1 AM, or rebuilt because the first version wasn't good enough.
 
 ```yaml
 role:      AI/ML Engineer · GenAI Engineer · Python Developer
